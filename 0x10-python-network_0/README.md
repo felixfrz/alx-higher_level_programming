@@ -2,11 +2,10 @@
 **0x10. Python - Network #0**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+Name: *Ayodeji Felix Oladoyin.*
 
-Email: *wendymunyasi@gmail.com*
+Email: *oladoyinayodeji@gmail.com*
 
-Tel: *+254707240068.*
 
 ##  Requirements
 
